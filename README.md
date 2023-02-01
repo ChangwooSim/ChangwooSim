@@ -1,4 +1,4 @@
-### Hi, I'm changwoo 👋
+### 데이터 분석가 심창우입니다 👋
 
 <!--
 **ChangwooSim/ChangwooSim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
